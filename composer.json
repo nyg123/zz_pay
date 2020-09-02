@@ -1,0 +1,28 @@
+{
+  "name": "zz/pay",
+  "license": "MIT",
+  "description": "建业至尊支付平台",
+  "authors": [
+    {
+      "name": "nyg",
+      "email": "651698455@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-openssl": "*",
+    "ext-mbstring": "*",
+    "ext-ctype": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Zz\\Pay\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/dbunit": "^2.0",
+    "phpunit/phpunit": "^5.7"
+  }
+}
