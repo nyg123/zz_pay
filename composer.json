@@ -1,5 +1,5 @@
 {
-  "name": "zz/pay",
+  "name": "jyzz/pay",
   "license": "MIT",
   "description": "建业至尊支付平台",
   "authors": [
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Zz\\Pay\\": "src/"
+      "Jyzz\\Pay\\": "src/"
     }
   },
   "require-dev": {

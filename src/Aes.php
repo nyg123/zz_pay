@@ -1,6 +1,6 @@
 <?php
 
-namespace Zz\Pay;
+namespace Jyzz\Pay;
 
 class Aes
 {

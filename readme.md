@@ -1,9 +1,9 @@
 ### 1，安装扩展
-> composer require zz/pay
+> composer require jyzz/pay
 
 ### 2，请求支付平台接口，加密方式
 ```php
-use Zz\Pay;
+use Jyzz\Pay;
 
 $data=['a'=>1,'b'=>2];//要发送的数据
 $ulr='http://testpayapi.9617777.com/xxx';//需要调用的接口地址

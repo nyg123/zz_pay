@@ -1,13 +1,13 @@
 <?php
 
-namespace Zz\Pay;
+namespace Jyzz\Pay;
 
 use Exception;
 
 /**
  * 至尊支付平台
  * Class ZzPay
- * @package Nyg\Tool
+ * @package jyzz/pay
  */
 class ZzPay
 {
